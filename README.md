@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NodeJs and GraphQL. 
 - 📫 Here is my LinkedIn profile https://www.linkedin.com/in/rajnish07/
 
-Current I'm working as a Software Development Engineer at Mindtree. I'm having more than 2 year's of experience in the Industry with specialization in ReactJs, JavaScript 
+Currently I'm working as a Software Development Engineer at Mindtree. I'm having more than 2 year's of experience in the Industry with specialization in ReactJs, JavaScript 
 and TypeScript. Along with Front-End Development I'm also having an experience of more than 8 months in DevOps as well.
 
 <!---
