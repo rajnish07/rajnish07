@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajnish Giri.
-- 👀 I’m a Front-End Development skilled in HTML, CSS, JavaScript and React.
+- 👀 I’m a Front-End Developer skilled in HTML, CSS, JavaScript and React.
 - 🌱 I’m currently learning NodeJs and GraphQL. 
 - 📫 Here is my LinkedIn profile https://www.linkedin.com/in/rajnish07/
 
