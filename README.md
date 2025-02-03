@@ -1,5 +1,5 @@
 <h1> Hi there 👋 I'm Rajnish Giri</h1> 
-<p>A Senior Frontend Engineer at Impelsys via [Recro].</p>
+<p>A Senior Frontend Engineer at Nagarro.</p>
 
 <h4>Portfolio: https://rajnish07.netlify.app</h4>
 
